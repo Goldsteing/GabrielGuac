@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  p {
+    font-weight: normal;
+    text-transform: uppercase;
+    border-bottom: 1px solid #8f1b1b;
+    margin-top: 30px;
+    }
